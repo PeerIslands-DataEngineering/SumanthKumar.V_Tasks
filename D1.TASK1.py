@@ -5,7 +5,7 @@ paragraph = [
     ["should", "not", "be", "processed"]
 ]
 
-dic = {}
+dic = {} 
 stop = False
 for row in paragraph:
     for word in row:
