@@ -23,7 +23,7 @@ def check_winner(board):
     
 board = [
     ["X", "O", "X"],
-    ["O", "X", ""],
+    ["O", "X", ""], 
     ["O", "", "X"]
 ]
 
